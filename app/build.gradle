@@ -4,8 +4,7 @@ plugins {
 
 android {
     namespace 'com.jnihelper'
-    //noinspection GradleDependency
-    compileSdk 28
+    compileSdkVersion 28
 
     defaultConfig {
         applicationId "com.jnihelper"
